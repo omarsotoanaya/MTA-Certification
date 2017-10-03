@@ -1,0 +1,6 @@
+c:\users\omar.soto\documents\visual studio 2015\Projects\FirstAssessment\FirstAssessment\bin\Debug\FirstAssessment.exe.config
+c:\users\omar.soto\documents\visual studio 2015\Projects\FirstAssessment\FirstAssessment\bin\Debug\FirstAssessment.exe
+c:\users\omar.soto\documents\visual studio 2015\Projects\FirstAssessment\FirstAssessment\bin\Debug\FirstAssessment.pdb
+c:\users\omar.soto\documents\visual studio 2015\Projects\FirstAssessment\FirstAssessment\obj\Debug\FirstAssessment.csprojResolveAssemblyReference.cache
+c:\users\omar.soto\documents\visual studio 2015\Projects\FirstAssessment\FirstAssessment\obj\Debug\FirstAssessment.exe
+c:\users\omar.soto\documents\visual studio 2015\Projects\FirstAssessment\FirstAssessment\obj\Debug\FirstAssessment.pdb
