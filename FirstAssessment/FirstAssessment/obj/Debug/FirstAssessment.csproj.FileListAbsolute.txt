@@ -4,3 +4,9 @@ c:\users\omar.soto\documents\visual studio 2015\Projects\FirstAssessment\FirstAs
 c:\users\omar.soto\documents\visual studio 2015\Projects\FirstAssessment\FirstAssessment\obj\Debug\FirstAssessment.csprojResolveAssemblyReference.cache
 c:\users\omar.soto\documents\visual studio 2015\Projects\FirstAssessment\FirstAssessment\obj\Debug\FirstAssessment.exe
 c:\users\omar.soto\documents\visual studio 2015\Projects\FirstAssessment\FirstAssessment\obj\Debug\FirstAssessment.pdb
+C:\Users\omar.soto\Documents\GitHub\MTA-Certification\FirstAssessment\FirstAssessment\bin\Debug\FirstAssessment.exe.config
+C:\Users\omar.soto\Documents\GitHub\MTA-Certification\FirstAssessment\FirstAssessment\obj\Debug\FirstAssessment.exe
+C:\Users\omar.soto\Documents\GitHub\MTA-Certification\FirstAssessment\FirstAssessment\obj\Debug\FirstAssessment.pdb
+C:\Users\omar.soto\Documents\GitHub\MTA-Certification\FirstAssessment\FirstAssessment\bin\Debug\FirstAssessment.exe
+C:\Users\omar.soto\Documents\GitHub\MTA-Certification\FirstAssessment\FirstAssessment\bin\Debug\FirstAssessment.pdb
+C:\Users\omar.soto\Documents\GitHub\MTA-Certification\FirstAssessment\FirstAssessment\obj\Debug\FirstAssessment.csprojResolveAssemblyReference.cache
